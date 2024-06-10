@@ -34,17 +34,17 @@
 ### 👨‍💻 About Me :
 ```javascript
 const AboutMe = {
-Code: {'JavaScript', 'Java', 'Typescript'},
+Code: {'Java', 'JavaScript', 'Typescript'},
 Technologies: {
     Frontend: {
       javaScript : ['React', 'Astro'],
       preprocessors: ['Sass'],
       libraries-css: ['Tailwind']
       },
-    Databases: ['PostgreSQL', 'SQLServer', 'MySQL'],
+    Databases: ['PostgreSQL'],
       },
 currentFocus: 'Frotend Development',
-Hobbies: ['Playing Videogames', 'Football', 'Music', 'sing', 'etc']  
+Hobbies: ['Playing Videogames', 'Football', 'Music', 'Sing', 'etc']  
 }  
 ```
 <h2 align="center" width="50%">GitHub Readme Streak Stats</h2>
