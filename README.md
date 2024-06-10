@@ -36,7 +36,7 @@ const AboutMe = {
 Code: {'JavaScript', 'Java', 'Typescript'},
 Technologies: {
     Frontend: {
-      javaScript : ['React'],
+      javaScript : ['React', Astro],
       preprocessors: ['Sass'],
       },
     Databases: ['PostgreSQL', 'SQLServer', 'MySQL'],
