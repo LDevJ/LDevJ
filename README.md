@@ -53,6 +53,7 @@ Hobbies: ['Playing Videogames', 'Football', 'Music', 'Sing', 'etc']
 <br>
 
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=LDevJ&theme=dark)](https://git.io/streak-stats)
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LdevJP&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 </div>
