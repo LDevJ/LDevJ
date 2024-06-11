@@ -41,7 +41,7 @@ Technologies: {
     Frontend: {
       javaScript : ['React', 'Astro'],
       preprocessors: ['Sass'],
-      libraries-css: ['Tailwind']
+      libraries: ['Tailwind']
       },
     Databases: ['PostgreSQL'],
       },
