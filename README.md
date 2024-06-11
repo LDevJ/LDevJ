@@ -53,9 +53,9 @@ Hobbies: ['Playing Videogames', 'Football', 'Music', 'Sing', 'etc']
 <br>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LdevJ&theme=one-dark-pro&locale=es&card_width=500&card_height=200)](https://git.io/streak-stats)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LdevJP&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LdevJ&theme=one-dark-pro&locale=es&card_width=500&card_height=200)](https://git.io/streak-stats)
+  
 </div>
 
 <!--
